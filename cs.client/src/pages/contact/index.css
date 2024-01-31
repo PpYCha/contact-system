@@ -1,0 +1,19 @@
+.contact-container {
+  margin: 20px;
+  background-color: #ececec;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.contact-header-container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.buttons-search-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 10px;
+}
